@@ -19,3 +19,9 @@ I'll see whether this is a useful place to track work done in
 * 
 
 Repo created for Data Scientist Toolbox Coursera project
+
+## Other Resources
+* Figshare
+*** This would be for sharing data
+* https://github.com/jtleek/datasharing
+*** Nominally has some kind of walkthrough guide for data sharing...
